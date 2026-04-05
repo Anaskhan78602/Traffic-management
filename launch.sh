@@ -3,6 +3,7 @@
 
 echo "========================================="
 echo "   Traffic Management System"
+
 echo "========================================="
 
 # Set environment variables
